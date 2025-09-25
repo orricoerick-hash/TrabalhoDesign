@@ -23,6 +23,7 @@ body {
     max-height: 180px;
     max-width: 100%;
     flex-shrink: 1;
+    border-radius: 5px;
 }
 
 /* Menu */
@@ -179,3 +180,4 @@ section p, section h2 {
     color: #ccc;
 
 }
+
